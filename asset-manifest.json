@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/grade-1-10-quiz-generator/static/css/main.b013f2fc.css",
+    "main.js": "/grade-1-10-quiz-generator/static/js/main.9d343c31.js",
+    "static/js/453.9276acae.chunk.js": "/grade-1-10-quiz-generator/static/js/453.9276acae.chunk.js",
+    "index.html": "/grade-1-10-quiz-generator/index.html",
+    "main.b013f2fc.css.map": "/grade-1-10-quiz-generator/static/css/main.b013f2fc.css.map",
+    "main.9d343c31.js.map": "/grade-1-10-quiz-generator/static/js/main.9d343c31.js.map",
+    "453.9276acae.chunk.js.map": "/grade-1-10-quiz-generator/static/js/453.9276acae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b013f2fc.css",
+    "static/js/main.9d343c31.js"
+  ]
+}
